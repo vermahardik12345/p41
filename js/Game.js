@@ -119,8 +119,8 @@ console.log(gameState);
         // Add code for game end condition
 
         if(player.score >=  10){
-            console.log("hi");            
-            //game.update(2);
+                    
+            game.update(2);
         }
         }
     
